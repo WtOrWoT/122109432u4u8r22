@@ -6,7 +6,7 @@
         "ip": true,
         "fingerprint": true
     },
-    "clientAddresses": ["oxysex.onrender.com"],
+    "clientAddresses": ["oxysex-sq94.onrender.com"],
     "networkUpdateFactor": 24,
     "socketWarningLimit": 5,
     "tabLimit": 2,
