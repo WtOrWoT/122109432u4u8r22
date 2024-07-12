@@ -6,7 +6,7 @@
         "ip": true,
         "fingerprint": true
     },
-    "clientAddresses": ["oxyrex.io", "6ibui.glitch.me", "www.oxyrex.io"],
+    "clientAddresses": ["oxysex.onrender.com"],
     "networkUpdateFactor": 24,
     "socketWarningLimit": 5,
     "tabLimit": 2,
@@ -92,5 +92,5 @@
     "TRENCH_WARFARE": false,
     "ESCORT": false,
     "SANDBOX": false,
-    "TOKENS": REDACTED
+    "TOKENS": "1212"
 }
